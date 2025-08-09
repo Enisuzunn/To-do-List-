@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168332234512",
+    "project_id": "to-do-list-6beef",
+    "storage_bucket": "to-do-list-6beef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168332234512:android:db791d546f3d3f1a8e5f95",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvg1XxLj8b5YKQYWvmMJqIcYMEB_wDRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
